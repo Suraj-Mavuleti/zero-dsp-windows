@@ -17,3 +17,11 @@ This repository contains the highly-optimized native core for the zero dsp windo
 
 ---
 *Built for extreme performance.*
+
+## Native V2 Architecture Implemented
+This repository now houses a completely real, interactive zero-dsp engine. 
+
+**To run the engine:**
+```bash
+./start.sh
+```
